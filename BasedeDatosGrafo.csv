@@ -1,2 +1,3 @@
-TI;NI;Nombre ;Email;Direccion;Fecha;Producto;Precio;Tipo;Cantidad;MedioPago;MetodoEntrega
-CC;1049639622;Julio Cesar Reina;jcrp@gmail.com;Calle 1 n 45 -12;1/09/2020;Computador;2300000;Electrodomestico;1;PSE;Domicilio
+Usuario;Producto;Carrito;Fecha;Cantidad;
+Julio Cesar;Computador;PSE;1/01/2020;2;
+Yessica;Mause;Credito;1/09/2020;4;
