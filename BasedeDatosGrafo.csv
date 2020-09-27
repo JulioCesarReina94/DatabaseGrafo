@@ -1,4 +1,4 @@
-TI,NI,Nombre ,Email,Direccion,Fecha,Producto,Precio,Tipo,Cantidad,MedioPago,MetodoEntrega,
+TI,NI,Nombre,Email,Direccion,Fecha,Producto,Precio,Tipo,Cantidad,MedioPago,MetodoEntrega,
 CC,1049639622,Julio Cesar Reina,jcrp@gmail.com,Calle 1 n 45 -12,1/09/2020,Computador,2300000,Electrodomestico,1,PSE,Domicilio,
 CC,1049639623,Marco Panche,gfhfgh@gmail.com,Calle 1 n 45 -12,1/06/2020,Mouse,30000,Electrodomestico,1,PSE,Domicilio,
 CC,1049639624,Ana Castro,ertert@gmail.com,Calle 1 n 45 -12,1/05/2020,Computador,2300000,Electrodomestico,1,Credito,EntregaEnAlmacen,
